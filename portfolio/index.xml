@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Portfolios on Sword and Tower Games</title>
-    <link>http://swordandtower.com/portfolio/</link>
+    <link>swordandtower.com/portfolio/</link>
     <description>Recent content in Portfolios on Sword and Tower Games</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 30 May 2022 17:11:47 -0500</lastBuildDate><atom:link href="http://swordandtower.com/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 30 May 2022 17:11:47 -0500</lastBuildDate><atom:link href="swordandtower.com/portfolio/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Tomb of Kor</title>
-      <link>http://swordandtower.com/portfolio/tombofkor/</link>
+      <link>swordandtower.com/portfolio/tombofkor/</link>
       <pubDate>Mon, 30 May 2022 17:11:47 -0500</pubDate>
       
-      <guid>http://swordandtower.com/portfolio/tombofkor/</guid>
+      <guid>swordandtower.com/portfolio/tombofkor/</guid>
       <description>The Tomb of Kor is a short dungeon packed with traps, secrets, and treasure. Kor’s Tomb is intended to be a short adventure for low- to medium-level characters and is especially good at providing some opportunities for extra loot and creative problem-solving.
 This adventure is suitable for any D20 type system and can be easily translated . At the end of the adventure is a list of magic items/treasures that can be found inside the Tomb.</description>
     </item>
