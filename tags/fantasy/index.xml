@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Sword and Tower Games</title>
-    <link>/</link>
-    <description>Recent content on Sword and Tower Games</description>
+    <title>Fantasy on Sword and Tower Games</title>
+    <link>/tags/fantasy/</link>
+    <description>Recent content in Fantasy on Sword and Tower Games</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 09 Jun 2022 17:46:55 -0500</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 09 Jun 2022 17:46:55 -0500</lastBuildDate><atom:link href="/tags/fantasy/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My Weekly Work Lunch Game, Part One</title>
       <link>/blog/thebeneathpart1/</link>
@@ -14,25 +14,6 @@
       
       <guid>/blog/thebeneathpart1/</guid>
       <description>For over five years, I&amp;rsquo;ve worked at a tech startup writing code. During that time, I&amp;rsquo;ve had the pleasure to run a game of Dungeons and Dragons fifth edition for my coworkers during our lunch break. Many of those players had their first experience with tabletop RPGs at our one-hour-long games. So far, we&amp;rsquo;ve been playing almost every week for five straight years. This series is a recap of our adventures, the drama, and the communal storytelling we&amp;rsquo;ve shared in a world that I&amp;rsquo;ve called &amp;ldquo;The Beneath.</description>
-    </item>
-    
-    <item>
-      <title>About</title>
-      <link>/about/</link>
-      <pubDate>Mon, 30 May 2022 17:11:47 -0500</pubDate>
-      
-      <guid>/about/</guid>
-      <description>For nearly two decades I have been running tabletop RPGs like D&amp;amp;D. Ever since a middle school teacher introduced me to 2nd edition Dungeons and Dragons, I was hooked. In the back of history class, I&amp;rsquo;d run a small game for a group of anti-authority friends. We smashed down doors, explored dungeons, fought orcs, and found treasure. Soon, I was off to college and bigger groups and long-lasting campaigns.
-I was inspired by Hank at Runehammerto share what I&amp;rsquo;ve been working on with the world.</description>
-    </item>
-    
-    <item>
-      <title>Contact</title>
-      <link>/contact/</link>
-      <pubDate>Mon, 30 May 2022 17:11:47 -0500</pubDate>
-      
-      <guid>/contact/</guid>
-      <description>Feel free to send an email to stephen@swordandtower.com or hit me up on Instagram @swordandtower!</description>
     </item>
     
     <item>
