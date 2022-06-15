@@ -2,10 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>/tags/alfmarches/</loc>
+    <lastmod>2022-06-09T17:46:55-05:00</lastmod>
+  </url><url>
     <loc>/blog/</loc>
     <lastmod>2022-06-09T17:46:55-05:00</lastmod>
   </url><url>
     <loc>/tags/fantasy/</loc>
+    <lastmod>2022-06-09T17:46:55-05:00</lastmod>
+  </url><url>
+    <loc>/tags/i-played/</loc>
+    <lastmod>2022-06-09T17:46:55-05:00</lastmod>
+  </url><url>
+    <loc>/blog/iplayedicrpg/</loc>
     <lastmod>2022-06-09T17:46:55-05:00</lastmod>
   </url><url>
     <loc>/blog/thebeneathpart1/</loc>
