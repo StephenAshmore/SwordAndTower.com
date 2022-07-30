@@ -2,25 +2,49 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>/tags/fantasy/</loc>
+    <lastmod>2022-07-30T12:00:00-05:00</lastmod>
+  </url><url>
+    <loc>/tags/horror/</loc>
+    <lastmod>2022-07-30T12:00:00-05:00</lastmod>
+  </url><url>
+    <loc>/tags/modern-fantasy/</loc>
+    <lastmod>2022-07-30T12:00:00-05:00</lastmod>
+  </url><url>
+    <loc>/tags/pocket-sized/</loc>
+    <lastmod>2022-07-30T12:00:00-05:00</lastmod>
+  </url><url>
+    <loc>/portfolio/</loc>
+    <lastmod>2022-07-30T12:00:00-05:00</lastmod>
+  </url><url>
+    <loc>/tags/rules-light/</loc>
+    <lastmod>2022-07-30T12:00:00-05:00</lastmod>
+  </url><url>
+    <loc>/portfolio/camproanoke/</loc>
+    <lastmod>2022-07-30T12:00:00-05:00</lastmod>
+  </url><url>
+    <loc>/tags/supernatural/</loc>
+    <lastmod>2022-07-30T12:00:00-05:00</lastmod>
+  </url><url>
+    <loc>/</loc>
+    <lastmod>2022-07-30T12:00:00-05:00</lastmod>
+  </url><url>
+    <loc>/tags/system/</loc>
+    <lastmod>2022-07-30T12:00:00-05:00</lastmod>
+  </url><url>
+    <loc>/tags/</loc>
+    <lastmod>2022-07-30T12:00:00-05:00</lastmod>
+  </url><url>
     <loc>/tags/alfmarches/</loc>
     <lastmod>2022-06-29T16:27:59-05:00</lastmod>
   </url><url>
     <loc>/blog/</loc>
     <lastmod>2022-06-29T16:27:59-05:00</lastmod>
   </url><url>
-    <loc>/tags/fantasy/</loc>
-    <lastmod>2022-06-29T16:27:59-05:00</lastmod>
-  </url><url>
     <loc>/tags/i-played/</loc>
     <lastmod>2022-06-29T16:27:59-05:00</lastmod>
   </url><url>
     <loc>/blog/iplayedicrpgpart4/</loc>
-    <lastmod>2022-06-29T16:27:59-05:00</lastmod>
-  </url><url>
-    <loc>/</loc>
-    <lastmod>2022-06-29T16:27:59-05:00</lastmod>
-  </url><url>
-    <loc>/tags/</loc>
     <lastmod>2022-06-29T16:27:59-05:00</lastmod>
   </url><url>
     <loc>/blog/iplayedicrpgpart3/</loc>
@@ -57,9 +81,6 @@
     <lastmod>2022-05-30T17:11:47-05:00</lastmod>
   </url><url>
     <loc>/tags/pocket-sized-adventures/</loc>
-    <lastmod>2022-05-30T17:11:47-05:00</lastmod>
-  </url><url>
-    <loc>/portfolio/</loc>
     <lastmod>2022-05-30T17:11:47-05:00</lastmod>
   </url><url>
     <loc>/tags/sword-sorcery/</loc>
